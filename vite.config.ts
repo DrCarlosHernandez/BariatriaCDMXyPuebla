@@ -4,7 +4,7 @@ import { fileURLToPath, URL } from 'node:url';
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/BOLT1/', //
+   base: '/BariatriaCDMXyPuebla/', //
   plugins: [react()],
   resolve: {
     alias: {
